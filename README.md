@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **aaron4522/aaron4522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Howdy, I'm Aaron! 👋
+
+I like making robots that do things and solve real-world problems.
+
+Check out my portfolio at **[aarongan.dev](https://aarongan.dev)**
