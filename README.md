@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 # Howdy, I'm Aaron! 👋
 
-I like making robots that do things and solve real-world problems.
+I like making robots & working on hardware driven development.
 
 Check out my portfolio at **[aarongan.dev](https://aarongan.dev)**
